@@ -24,8 +24,8 @@ const mailGun = require("nodemailer-mailgun-transport");
 
 const auth = {
   auth: {
-    api_key: process.env.API_KEY  , // TODO: Replace with your mailgun API KEY
-    domain: process.env.DOMAIN, // TODO: Replace with your mailgun DOMAIN
+    api_key: "ddlskjsdfjhasd",//process.env.API_KEY  , // TODO: Replace with your mailgun API KEY
+    domain: 'github.com' //process.env.DOMAIN, // TODO: Replace with your mailgun DOMAIN
   },
 };
 
